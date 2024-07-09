@@ -12,7 +12,4 @@ X-Ed25519-Pub: 43e6681c5cf3cdc2f9ccf975f8a01b18c5e84bf0ba00605faba9cc0f8757a117
 
 key pair generation and article verification can be done with my [sve](https://github.com/stefanclaas/sve) programm.
 
-Please note: While the author of flnews said the post-processor for flnews is not (yet) designed
-to be used for signing, it works flawlessly and I have tested it thoroughly.
-
 
