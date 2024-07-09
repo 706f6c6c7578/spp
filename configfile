@@ -1,1 +1,2 @@
 post_proc: /home/xxxxxxxx/.config/flnews/sign.sh
+force_unicode: 1
